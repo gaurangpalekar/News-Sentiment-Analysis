@@ -1,8 +1,7 @@
 
 # Nifty Sentiment Analysis Dashboard
 
-[![Watch the Demo Video](res/app.png)](https://github.com/gsaanchi/Nifty-Sentiment/raw/main/demo%20video/Recording%202025-03-03%20193333.mp4)
-
+[![Watch the Demo Video]("C:\Users\gaupa\OneDrive\Pictures\Screenshots\Screenshot 2025-07-06 104005.png")]
 [Live Demo on Streamlit Cloud](https://nifty50prediction-gcy7rgascn34iwdty9nnjq.streamlit.app/)
 
 ---
