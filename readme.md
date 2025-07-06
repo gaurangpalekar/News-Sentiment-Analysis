@@ -100,8 +100,8 @@ The project implements a robust end-to-end data pipeline that involves:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/gsaanchi/Nifty-Sentiment.git
-   cd Nifty-Sentiment
+   git clone https://github.com/gaurangpalekar/Nifty-Sentiment-Analysis.git
+   cd Nifty-Sentiment-Analysis
    ```
 
 2. (Optional) Create and activate a virtual environment:
