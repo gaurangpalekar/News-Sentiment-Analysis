@@ -1,6 +1,7 @@
 
 # Nifty Sentiment Analysis Dashboard
 
+![Demo]([https://raw.githubusercontent.com/gaurangpalekar/News-Sentiment-Analysis/main/images/screenshot.png](https://raw.githubusercontent.com/gaurangpalekar/News-Sentiment-Analysis/refs/heads/main/Screenshot%202025-07-06%20135615.png))
 
 [Live Demo on Streamlit Cloud](https://nifty50prediction-gcy7rgascn34iwdty9nnjq.streamlit.app/)
 
