@@ -147,7 +147,7 @@ pytest tests/
 ## Tech Stack
 
 * **Frontend:** Streamlit, Plotly
-* **Backend:** Python, SQLite (DuckDB)
+* **Backend:** Python, Flask, SQLite (DuckDB)
 * **Sentiment Analysis:** VADER (NLTK), FinBERT (HuggingFace)
 * **Automation:** GitHub Actions (CI/CD pipeline)
 * **Data Sources:** NSE, Google Finance, Yahoo Finance, Finology
