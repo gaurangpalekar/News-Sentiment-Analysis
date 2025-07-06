@@ -1,7 +1,7 @@
 
 # Nifty Sentiment Analysis Dashboard
 
-[![Watch the Demo](./images/Screenshot%202025-07-06%20105636.png)]
+
 [Live Demo on Streamlit Cloud](https://nifty50prediction-gcy7rgascn34iwdty9nnjq.streamlit.app/)
 
 ---
